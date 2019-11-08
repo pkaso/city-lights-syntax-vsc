@@ -4,7 +4,7 @@
   "type": "dark",
   "colors": {
 
-    "breadcrumb.foreground": "#718ca1",
+    "breadcrumb.foreground": "#8AA0B2",
     "breadcrumb.focusForeground": "#b7c5d3",
     "breadcrumb.activeSelectionForeground": "#41505e",
     "breadcrumbPicker.background": "#28323a",
@@ -232,10 +232,10 @@
     "textBlockQuote.background": "#171d23",
     "textBlockQuote.border": "#171d23",
     "textCodeBlock.background": "#171d23",
-    "textLink.activeForeground": "#718ca1",
-    "textLink.foreground": "#718ca1",
-    "textPreformat.foreground": "#718ca1",
-    "textSeparator.foreground": "#718ca1",
+    "textLink.activeForeground": "#8AA0B2",
+    "textLink.foreground": "#8AA0B2",
+    "textPreformat.foreground": "#8AA0B2",
+    "textSeparator.foreground": "#8AA0B2",
     "titleBar.activeBackground": "#171d23",
     "titleBar.activeForeground": "#ffffff",
     "titleBar.inactiveBackground": "#1D252C",
@@ -294,28 +294,28 @@
       "name": "Meta",
       "scope": "meta",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
       "name": "Meta Brace",
       "scope": "meta.brace",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
       "name": "Punctuation Parameters",
       "scope": "punctuation.definition.parameters",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
@@ -377,7 +377,7 @@
       "name": "Support",
       "scope": "support",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
@@ -405,7 +405,7 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
@@ -519,7 +519,7 @@
         "support.constant.property-value.css"
       ],
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
@@ -590,7 +590,7 @@
         "punctuation.definition.tag.begin.html"
       ],
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
@@ -698,7 +698,7 @@
       "name": "[JSON] - Support",
       "scope": "source.json support",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#8AA0B2"
       }
     },
     {
